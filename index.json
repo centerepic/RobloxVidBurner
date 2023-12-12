@@ -1,10 +1,17 @@
 [
   {
     "video_title": "Scott Patrick vs The World",
-    "video_source": "https://1drv.ms/u/s!AlNgkLkvP2xRuF-DeA9e5CQI_pR5?e=8ZcPKI"
+    "video_source": "https://1drv.ms/u/s!AlNgkLkvP2xRuF-DeA9e5CQI_pR5?e=8ZcPKI",
+    "video_filename": "SPVTW.webm"
   },
   {
     "video_title": "funnywoken",
-    "video_source": "https://1drv.ms/u/s!AlNgkLkvP2xRuF4UNlRw5HeF2bIB?e=oGMzMp"
+    "video_source": "https://1drv.ms/u/s!AlNgkLkvP2xRuF4UNlRw5HeF2bIB?e=oGMzMp",
+    "video_filename": "funnywoken.webm"
+  },
+  {
+    "video_title": "The Martian",
+    "video_source": "https://1drv.ms/u/s!AlNgkLkvP2xRuGD5gnQH2SQOFVZF?e=DIo56L",
+    "video_filename": "The.Martian.2015.webm"
   }
 ]
